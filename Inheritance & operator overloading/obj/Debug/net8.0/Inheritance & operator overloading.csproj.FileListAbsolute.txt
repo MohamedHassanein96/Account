@@ -1,0 +1,14 @@
+D:\.net devoir\Inheritance & operator overloading\Inheritance & operator overloading\bin\Debug\net8.0\Inheritance & operator overloading.exe
+D:\.net devoir\Inheritance & operator overloading\Inheritance & operator overloading\bin\Debug\net8.0\Inheritance & operator overloading.deps.json
+D:\.net devoir\Inheritance & operator overloading\Inheritance & operator overloading\bin\Debug\net8.0\Inheritance & operator overloading.runtimeconfig.json
+D:\.net devoir\Inheritance & operator overloading\Inheritance & operator overloading\bin\Debug\net8.0\Inheritance & operator overloading.dll
+D:\.net devoir\Inheritance & operator overloading\Inheritance & operator overloading\bin\Debug\net8.0\Inheritance & operator overloading.pdb
+D:\.net devoir\Inheritance & operator overloading\Inheritance & operator overloading\obj\Debug\net8.0\Inheritance & operator overloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net devoir\Inheritance & operator overloading\Inheritance & operator overloading\obj\Debug\net8.0\Inheritance & operator overloading.AssemblyInfoInputs.cache
+D:\.net devoir\Inheritance & operator overloading\Inheritance & operator overloading\obj\Debug\net8.0\Inheritance & operator overloading.AssemblyInfo.cs
+D:\.net devoir\Inheritance & operator overloading\Inheritance & operator overloading\obj\Debug\net8.0\Inheritance & operator overloading.csproj.CoreCompileInputs.cache
+D:\.net devoir\Inheritance & operator overloading\Inheritance & operator overloading\obj\Debug\net8.0\Inheritance & operator overloading.dll
+D:\.net devoir\Inheritance & operator overloading\Inheritance & operator overloading\obj\Debug\net8.0\refint\Inheritance & operator overloading.dll
+D:\.net devoir\Inheritance & operator overloading\Inheritance & operator overloading\obj\Debug\net8.0\Inheritance & operator overloading.pdb
+D:\.net devoir\Inheritance & operator overloading\Inheritance & operator overloading\obj\Debug\net8.0\Inheritance & operator overloading.genruntimeconfig.cache
+D:\.net devoir\Inheritance & operator overloading\Inheritance & operator overloading\obj\Debug\net8.0\ref\Inheritance & operator overloading.dll
